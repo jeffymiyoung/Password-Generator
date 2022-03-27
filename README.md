@@ -12,6 +12,8 @@ Through a series of prompts, input the desired criteria for the user's random pa
 ## Screenshot: 
 https://jeffymiyoung.github.io/Password-Generator/
 
+![This is the prompt window for the Random Password Generator Application](./assets/Images/Screenshot.JPG)
+
 
 
 ## Author(s):
